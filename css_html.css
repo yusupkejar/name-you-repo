@@ -1,0 +1,14 @@
+.name {
+    background-color: aqua;
+    max-width: 50%;
+    width: 100%;
+    max-height: 250%;
+    height: 325%;
+    min-height: 80%;
+    width: 55%;
+    min-height: 350%;
+    height: 225%;
+
+    font-size: 110px;
+    font: 600px;
+}
